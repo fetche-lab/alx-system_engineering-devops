@@ -1,0 +1,3 @@
+#! /bin/bash 
+first=$(mkdir /tmp/my_first_directory)
+echo $first
