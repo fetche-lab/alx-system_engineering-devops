@@ -1,0 +1,4 @@
+#! /bin/bash 
+long=$(ls -l)\n 
+echo $long 
+
