@@ -1,0 +1,3 @@
+#! /bin/bash 
+digits=$(ls -lna)
+echo $digits 
