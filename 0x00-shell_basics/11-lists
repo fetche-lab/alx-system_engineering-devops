@@ -1,0 +1,3 @@
+#! /bin/bash 
+lists=$(ls -al . .. /boot)
+echo $lists
