@@ -1,0 +1,3 @@
+#! /bin/bash 
+html=$(cp -rua *.html ../)
+echo $html 
