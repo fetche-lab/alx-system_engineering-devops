@@ -1,4 +1,4 @@
-#! /bin/bash 
-emacs=$(rm *~)
-echo $emacs 
+#!/bin/bash 
+rm *~
+ 
 

@@ -1,4 +1,3 @@
-#! /bin/bash 
-dird=$(rmdir /tmp/my_first_directory/)
-echo $dird
+#!/bin/bash 
+rmdir /tmp/my_first_directory/
 

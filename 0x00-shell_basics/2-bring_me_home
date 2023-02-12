@@ -1,3 +1,2 @@
-#! /bin/bash 
-hOME=$(cd ~)
-echo $hOME 
+#!/bin/bash 
+cd ~ 

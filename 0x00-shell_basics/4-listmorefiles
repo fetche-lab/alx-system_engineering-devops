@@ -1,4 +1,3 @@
-#! /bin/bash 
-hidden=$(ls -al)
-echo $hidden 
+#!/bin/bash 
+ls -al  
 

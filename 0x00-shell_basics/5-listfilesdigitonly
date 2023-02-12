@@ -1,3 +1,2 @@
-#! /bin/bash 
-digits=$(ls -lna)
-echo $digits 
+#!/bin/bash 
+ls -lna 

@@ -1,3 +1,2 @@
-#! /bin/bash 
-LIST=$(ls)
-echo $LIST
+#!/bin/bash 
+ls 

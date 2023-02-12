@@ -1,3 +1,3 @@
-#! /bin/bash 
-tree=$(mkdir -p welcome/to/school)
-echo $tree 
+#!/bin/bash 
+mkdir -p welcome/to/school
+ 

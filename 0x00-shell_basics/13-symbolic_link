@@ -1,4 +1,4 @@
-#! /bin/bash 
-link=$(ln -s /bin/ls /home/lisso/ALX_software_dev/alx-system_engineering-devops/0x00-shell_basics/_ls_)
-echo $link 
+#!/bin/bash 
+ln -s /bin/ls /home/lisso/ALX_software_dev/alx-system_engineering-devops/0x00-shell_basics/_ls_
+ 
 

@@ -1,4 +1,4 @@
-#! /bin/bash 
-type=$(file /tmp/iamafile)
-echo $type 
+#!/bin/bash 
+file /tmp/iamafile
+ 
 

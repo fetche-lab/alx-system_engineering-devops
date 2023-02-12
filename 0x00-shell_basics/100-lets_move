@@ -1,3 +1,3 @@
-#! /bin/bash 
-upper=$(mv [[:upper:]]* /tmp/u)
-echo $upper 
+#!/bin/bash 
+mv [[:upper:]]* /tmp/u
+ 

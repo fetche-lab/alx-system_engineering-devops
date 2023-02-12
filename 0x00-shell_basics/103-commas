@@ -1,4 +1,4 @@
-#! /bin/bash 
-commas=$(ls -map)
-echo $commas 
+#!/bin/bash 
+ls -map
+
 
