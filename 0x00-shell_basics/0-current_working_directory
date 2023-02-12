@@ -1,4 +1,3 @@
-#! /bin/bash 
-PWD=$(pwd)
-echo $PWD
+#!/bin/bash 
+echo $(pwd)
 
